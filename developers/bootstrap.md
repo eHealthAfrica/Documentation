@@ -5,4 +5,4 @@ permalink: /developers/bootstrap/
 categories: developers
 ---
 
-<iframe src="http://docs.ehealthafrica.org/ehealth-bootstrap/">
+<iframe src="http://ehealthafrica.github.io/ehealth-bootstrap/">
